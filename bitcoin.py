@@ -35,9 +35,6 @@ def ao_receber_mensagem(ws, mensagem):
     print(price)
             
                
-    if price < 10:
-        print("Nossa, está muito baixo, vamos comprar")
-        comprar()
 if __name__ == "__main__":
     
 
